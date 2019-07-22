@@ -1,4 +1,4 @@
-package com.vaadin.starter.skeleton.spring;
+package com.packagename.myapp.spring;
 
 import org.junit.Assert;
 import org.junit.Test;
